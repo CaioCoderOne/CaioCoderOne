@@ -90,6 +90,6 @@ Quando não estou programando, você pode me encontrar lendo mangás, jogando vi
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Não+é+seu+idioma+preferido?+Mude+aqui&center=true&width=1000&duration=20000)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/CaioCoderOne/README.md"><img src="https://img.shields.io/badge/-Inglês-3C3B6E?style=for-the-badge&logo=google-translate&logoColor=FFFFFF" alt="Inglês"/></a>
-  <a href="https://github.com/CaioCoderOne/README.pt.md"><img src="https://img.shields.io/badge/-Português-009739?style=for-the-badge&logo=google-translate&logoColor=FFFFFF" alt="Português"/></a>
+  <a href="https://github.com/CaioCoderOne/Home/blob/main/README.md"><img src="https://img.shields.io/badge/-Inglês-3C3B6E?style=for-the-badge&logo=google-translate&logoColor=FFFFFF" alt="Inglês"/></a>
+  <a href="https://github.com/CaioCoderOne/Home/blob/main/README.pt.md"><img src="https://img.shields.io/badge/-Português-009739?style=for-the-badge&logo=google-translate&logoColor=FFFFFF" alt="Português"/></a>
 </div>
