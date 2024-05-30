@@ -1,6 +1,6 @@
 # Olá 👋
 
-### Eu sou o Caio Leão
+### Eu sou o Caio
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-le%C3%A3o-47273a285/)
 [![GitHub followers](https://img.shields.io/github/followers/CaioCoderOne?label=Follow&style=for-the-badge&logo=github)](https://github.com/CaioCoderOne)
