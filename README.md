@@ -75,7 +75,14 @@ I am a dedicated full-stack web developer from Brazil, currently pursuing a degr
 
 ### 🚧 Ongoing Projects
 
-- Discord Multi-role Bot
+### ARK Prime Bot - Multifunctional Bot
+
+Current features:
+- FAQ
+- Embed Generator
+- Moderation
+- Ticket Management
+- More features in development
 
 ---
 
