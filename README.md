@@ -7,11 +7,12 @@
 
 ---
 
-I am a dedicated full-stack web developer from Brazil, currently pursuing a degree in Software Engineering. I am passionate about programming and strive to create innovative websites and applications that tackle real-world problems while offering outstanding user experiences across all devices.
+I am a passionate backend developer from Brazil with a strong focus on Python. Currently, I am pursuing a degree in Software Engineering and have extensive experience in web development. I love creating scalable and efficient backend solutions, as well as full-stack applications, using a wide range of technologies.
 
-- 🚀 Always seeking to improve and learn new technologies.
-- 🌟 My goal is to participate in projects that bring significant advancements to various fields.
-- 🤝 Feel free to reach out if you want to discuss programming or share common interests.
+- 💻 Currently focusing on backend development with Python and exploring advanced techniques in data handling and server-side logic.
+- 📚 Always eager to learn new technologies and enhance my skills across various languages and frameworks.
+- 🎯 Driven to contribute to projects that solve real-world problems and provide significant value to users.
+- 🤝 Open to collaborations, discussions on technology, or sharing insights about software development.
 
 ---
 
@@ -19,17 +20,22 @@ I am a dedicated full-stack web developer from Brazil, currently pursuing a degr
 
 #### Languages:
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-008000?style=for-the-badge&logo=javascript&logoColor=FFFF00" alt="JavaScript"/> <!-- Verde e amarelo da bandeira do Brasil -->
-  <img src="https://img.shields.io/badge/TypeScript-002776?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/> <!-- Azul e branco da bandeira dos EUA -->
-  <img src="https://img.shields.io/badge/Python-3B7A57?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/> <!-- Verde e branco da bandeira do Brasil -->
-  <img src="https://img.shields.io/badge/Ruby-B22222?style=for-the-badge&logo=ruby&logoColor=FFFFFF" alt="Ruby"/> <!-- Vermelho e branco da bandeira dos EUA -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 </div>
 
 #### Frameworks & Libraries:
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </div>
@@ -37,15 +43,18 @@ I am a dedicated full-stack web developer from Brazil, currently pursuing a degr
 #### Tools:
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Discord Bots-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots"/>
 </div>
 
 #### Cloud & Databases:
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 ---
